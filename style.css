@@ -1,0 +1,171 @@
+.imagen-inicio {
+    margin-left: 287px;
+    position:absolute;
+}
+
+.frame {
+    border:#000000 5px solid;
+    border-radius: 10px;
+}
+
+.contraste-texto-inicio {
+    opacity: 0.5;
+    border:#000000 5px solid;
+    border-radius: 10px;
+    width: 870px;
+    left: 250px;
+    position: absolute;
+    z-index: -1;
+    height: 433px;
+}
+
+.contraste-texto-personajes {
+    opacity: 0.5;
+    border:#000000 5px solid;
+    border-radius: 10px;
+    width: 870px;
+    left: 250px;
+    position: absolute;
+    z-index: -1;
+    height: 1050px;
+}
+.contraste-texto-episodes {
+    opacity: 0.5;
+    border:#000000 5px solid;
+    border-radius: 10px;
+    width: 870px;
+    left: 250px;
+    position: absolute;
+    z-index: -1;
+    height: 590px;
+}
+
+.menu {
+    font-size: 18px;
+    line-height: 10px;
+    text-align: center;
+    width: auto;
+    height: 40px;
+    position: relative;
+    left: 280px;
+    top: 15px;
+    border-radius: 5px;
+    color:#000000;
+}
+
+.navbar {
+    left: 250px;
+    opacity: 0.5;
+    width: 870px;
+    height: 60px;
+    border: #000000 5px solid;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.imagen-arriba {
+    position: relative;
+    left: 243px;
+    width: 870px;
+    height: 160px;
+    border: #000000 5px solid;
+    border-radius: 10px;
+}
+.imagen-arriba-fondo {
+    position: absolute;
+    left: 253px;
+    width: 875px;
+    height: 170px;
+    border-radius: 10px;
+    z-index: -1;
+}
+
+.texto-principal {
+    color:#000000;
+    margin-right: 260px;
+    line-height: 22px;
+    margin-left: 280px;
+}
+
+h2 {
+    color: #000000;
+    margin-left: 280px;
+}
+
+body {
+    background-image: url("629391.jpg");
+    background-repeat: repeat;
+}
+.nombre {
+    color: #000000;
+    margin-left: 450px;
+}
+
+.resena {
+    position: relative;
+    margin-right: 340px;
+    line-height: 22px;
+    color:#000000
+}
+
+.foto-inicio {
+    position: absolute;
+   
+    border-radius: 10px;
+    margin-left: 470px
+}
+
+.fotos-personajes {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 585px;
+}
+
+.descripcion-personajes {
+    position: relative;
+    margin-right: 240px;
+    line-height: 22px;
+    color:#000000;
+}
+
+.nombres-personajes {
+    font-size: 25px;
+}
+
+.informacion-principal {
+    position: absolute;
+    left: 690px;
+}
+
+.informacion-foto {
+    position: absolute;
+    top: 12px;
+}
+
+.informacion-texto {
+    position: absolute;
+    left: -60px
+}
+
+.informacion-click-gmail {
+    background-color: transparent;
+    position: absolute;
+    left: -65px;
+    top: 12px;
+    width: 100px;
+    height: 30px;
+    z-index: 1;
+}
+
+.texto-acerca-de {
+    color:#000000;
+    margin-right: 260px;
+    line-height: 22px;
+    margin-left: 280px;
+}
+
+.foto-acerca-de {
+    margin-left: 487px;
+    top: 380px;
+    position: absolute;
+}
